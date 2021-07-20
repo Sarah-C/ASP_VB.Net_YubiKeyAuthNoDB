@@ -1,0 +1,20 @@
+C:\VS\Projects\yubikey\yubikey\bin\yubikey.dll
+C:\VS\Projects\yubikey\yubikey\bin\yubikey.pdb
+C:\VS\Projects\yubikey\yubikey\bin\yubikey.xml
+C:\VS\Projects\yubikey\yubikey\obj\Debug\ResolveAssemblyReference.cache
+C:\VS\Projects\yubikey\yubikey\obj\Debug\yubikey.Resources.resources
+C:\VS\Projects\yubikey\yubikey\obj\Debug\GenerateResource.read.1.tlog
+C:\VS\Projects\yubikey\yubikey\obj\Debug\GenerateResource.write.1.tlog
+C:\VS\Projects\yubikey\yubikey\obj\Debug\yubikey.dll
+C:\VS\Projects\yubikey\yubikey\obj\Debug\yubikey.xml
+C:\VS\Projects\yubikey\yubikey\obj\Debug\yubikey.pdb
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\bin\yubikey.dll
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\bin\yubikey.pdb
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\bin\yubikey.xml
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\yubikey.Resources.resources
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\yubikey.dll
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\yubikey.xml
+C:\Users\Sarah\Documents\Visual Studio 2010\Projects\YubiKey\yubikey\obj\Debug\yubikey.pdb

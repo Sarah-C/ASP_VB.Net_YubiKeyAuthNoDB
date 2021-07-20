@@ -1,0 +1,130 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+yubikey
+</name>
+</assembly>
+<members>
+<member name="P:yubikey.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:yubikey.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:yubikey.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:yubikey.initialiseSystem.message">
+	<summary>
+message control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey.initialiseSystem.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey.YubikeyAuth.modHex.ALPHABET">
+	<summary>
+ Utility class for encoding and decoding Yubico's MODHex
+ format.
+ </summary>
+	<remarks>
+		<para>MODHex is the format used to encode Yubikey authentication
+ strings.  Rather than the typical encoding formats, the
+ alphabet used by MODHex (<c>cbdefghijklnrtuv</c>) has the advantage
+ of being in the same location on all known keyboard layouts (or so
+ YubiCo syas).  This makes it ideal for encoding, since the YubiKey
+ generates fake keyboard events to simulate typing by the user.</para>
+		<para>The general idea here are pretty much taken from the
+ YubiCo-J project.  However, the lookup-table-based implementation is
+ new to this C# port.</para>
+	</remarks>
+</member><member name="M:yubikey.YubikeyAuth.modHex.Encode(System.Byte[])">
+	<summary>
+ Encodes an octet stream in MODHex.
+ </summary>
+	<param name="bytes">The bytes to be encoded.  Must not be null.</param>
+	<returns>The encoded bytes.  An empty array will return an empty string.</returns>
+</member><member name="M:yubikey.YubikeyAuth.modHex.Decode(System.String)">
+	<summary>
+ Decodes a MODHex-encoded string back into an octet array.
+ </summary>
+	<param name="encodedBytes">The bytes to be decoded.  May not be null,
+ but an empty string is acceptable.</param>
+	<returns>The decoded data.  If an empty string is passed in, then an empty
+ array will be returned.</returns>
+</member><member name="F:yubikey._Default.OTPField">
+	<summary>
+OTPField control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey._Default.output">
+	<summary>
+output control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey.Site.NavigationMenu">
+	<summary>
+NavigationMenu control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:yubikey.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
